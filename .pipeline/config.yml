@@ -34,9 +34,9 @@ stages:
 
 #  Release:
 #    cfTargets:
-#      - org: 'myOrg'
-#        space: 'mySpace'
-#        apiEndpoint: 'https://'
+#      - org: 'fa3b9c4ctrial'
+#        space: '959161b3-d249-47da-827a-a8aec264208c'
+#        apiEndpoint: 'https://api.cf.us10-001.hana.ondemand.com'
 #        appName: 'myAppName'
 #        manifest: 'manifest.yml'
-#        credentialsId: 'myDeploymentCredentialsId'
+#        credentialsId: 'tms-key'
